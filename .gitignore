@@ -1,0 +1,7 @@
+composer.lock
+tests/*
+.DS_Store
+laravel.log
+.php_cs.cache
+.env
+
